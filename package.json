@@ -1,0 +1,12 @@
+{
+  "name": "js-dasar",
+  "version": "1.0.0",
+  "description": "tempat latihan belajar js dasar melalui dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daffa",
+  "license": "ISC",
+  "type": "module"
+}
